@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://testtmtelos.github.io/csb-11803/static/css/main.cca60e33.chunk.css",
+    "main.js": "https://testtmtelos.github.io/csb-11803/static/js/main.52fce834.chunk.js",
+    "main.js.map": "https://testtmtelos.github.io/csb-11803/static/js/main.52fce834.chunk.js.map",
+    "runtime-main.js": "https://testtmtelos.github.io/csb-11803/static/js/runtime-main.e92bcdda.js",
+    "runtime-main.js.map": "https://testtmtelos.github.io/csb-11803/static/js/runtime-main.e92bcdda.js.map",
+    "static/js/2.1f1ae746.chunk.js": "https://testtmtelos.github.io/csb-11803/static/js/2.1f1ae746.chunk.js",
+    "static/js/2.1f1ae746.chunk.js.map": "https://testtmtelos.github.io/csb-11803/static/js/2.1f1ae746.chunk.js.map",
+    "index.html": "https://testtmtelos.github.io/csb-11803/index.html",
+    "precache-manifest.cd9f8064ad543d356dfd55f97bce1670.js": "https://testtmtelos.github.io/csb-11803/precache-manifest.cd9f8064ad543d356dfd55f97bce1670.js",
+    "service-worker.js": "https://testtmtelos.github.io/csb-11803/service-worker.js",
+    "static/css/main.cca60e33.chunk.css.map": "https://testtmtelos.github.io/csb-11803/static/css/main.cca60e33.chunk.css.map",
+    "static/js/2.1f1ae746.chunk.js.LICENSE": "https://testtmtelos.github.io/csb-11803/static/js/2.1f1ae746.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e92bcdda.js",
+    "static/js/2.1f1ae746.chunk.js",
+    "static/css/main.cca60e33.chunk.css",
+    "static/js/main.52fce834.chunk.js"
+  ]
+}
